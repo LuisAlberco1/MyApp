@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085655467309",
+    "project_id": "appalarma-a4a53",
+    "storage_bucket": "appalarma-a4a53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085655467309:android:230b2606d04082de5d7fa4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOFeKC2_B7UpnnZ9yZZu-nuxWUHaNRIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
